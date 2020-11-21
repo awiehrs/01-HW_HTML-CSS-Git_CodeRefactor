@@ -8,7 +8,7 @@ All images were updated with alt attributes, redundant elements were consolidate
 
 ### Application Link
 
-Deployed link: [https://awiehrs.github.io/01-HW_HTML-CSS-Git_CodeRefactor/Develop/index.html]
+Deployed link: [https://awiehrs.github.io/01-HW_HTML-CSS-Git_CodeRefactor]
 
 #### Acknowledgements
 
