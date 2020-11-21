@@ -10,6 +10,10 @@ All images were updated with alt attributes, redundant elements were consolidate
 
 Deployed link: [https://awiehrs.github.io/01-HW_HTML-CSS-Git_CodeRefactor]
 
-#### Acknowledgements
+### Screenshot of Deployed Page
+
+![Screenshot](screenshots/homework-deployed-page_ALW.png "Screenshot")
+
+#### Credits
 
 This project was completed while working in a study group with Austin Ruhf and Kiara Ferguson
