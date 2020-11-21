@@ -12,7 +12,7 @@ Deployed link: [https://awiehrs.github.io/01-HW_HTML-CSS-Git_CodeRefactor]
 
 ### Screenshot of Deployed Page
 
-![Screenshot](screenshots/homework-deployed-page_ALW.png "Screenshot")
+![alt text](assets/screenshots/homework-deployed-page_ALW.png "Screenshot")
 
 #### Credits
 
